@@ -1,6 +1,6 @@
-### Presentation on Term Paper Topic _The Image as Commodity - Carte de visite_
+### Presentation on Term Paper Topic _The Image as Commodity - Carte de visite, v. 2.0_
 
-Presented in Professor Maureen Ryan's **ARTH 439 - 18th and 19th Century Visual Culture** class on March 11, 2015
+Presented in Professor Maureen Ryan's **ARTH 439 - 18th and 19th Century Visual Culture** class on April 8, 2015
 
 Dept. of AHVA - University of British Columbia
 
