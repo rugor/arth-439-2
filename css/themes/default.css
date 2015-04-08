@@ -389,3 +389,19 @@ p.caption {
 .mw2 {
 	max-width: 320px !important;
 }
+
+.mw3 {
+	max-width: 600px !important;
+}
+
+.mw4 {
+	max-width: 520px !important;
+}
+
+.mw5 {
+	max-width: 280px !important;
+}
+
+i {
+	font-style: italic;
+}
